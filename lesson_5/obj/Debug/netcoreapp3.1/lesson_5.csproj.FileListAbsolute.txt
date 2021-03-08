@@ -1,0 +1,13 @@
+D:\_KS\GeekBrains\CSharp_basic\lesson_5\bin\Debug\netcoreapp3.1\lesson_5.exe
+D:\_KS\GeekBrains\CSharp_basic\lesson_5\bin\Debug\netcoreapp3.1\lesson_5.deps.json
+D:\_KS\GeekBrains\CSharp_basic\lesson_5\bin\Debug\netcoreapp3.1\lesson_5.runtimeconfig.json
+D:\_KS\GeekBrains\CSharp_basic\lesson_5\bin\Debug\netcoreapp3.1\lesson_5.runtimeconfig.dev.json
+D:\_KS\GeekBrains\CSharp_basic\lesson_5\bin\Debug\netcoreapp3.1\lesson_5.dll
+D:\_KS\GeekBrains\CSharp_basic\lesson_5\bin\Debug\netcoreapp3.1\lesson_5.pdb
+D:\_KS\GeekBrains\CSharp_basic\lesson_5\obj\Debug\netcoreapp3.1\lesson_5.csprojAssemblyReference.cache
+D:\_KS\GeekBrains\CSharp_basic\lesson_5\obj\Debug\netcoreapp3.1\lesson_5.AssemblyInfoInputs.cache
+D:\_KS\GeekBrains\CSharp_basic\lesson_5\obj\Debug\netcoreapp3.1\lesson_5.AssemblyInfo.cs
+D:\_KS\GeekBrains\CSharp_basic\lesson_5\obj\Debug\netcoreapp3.1\lesson_5.csproj.CoreCompileInputs.cache
+D:\_KS\GeekBrains\CSharp_basic\lesson_5\obj\Debug\netcoreapp3.1\lesson_5.dll
+D:\_KS\GeekBrains\CSharp_basic\lesson_5\obj\Debug\netcoreapp3.1\lesson_5.pdb
+D:\_KS\GeekBrains\CSharp_basic\lesson_5\obj\Debug\netcoreapp3.1\lesson_5.genruntimeconfig.cache
